@@ -1,0 +1,16 @@
+{
+    "name": "wjl/encrypt",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Wjl\\Encrypt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wangjunlu",
+            "email": "694403901@qq.com"
+        }
+    ],
+    "require": {}
+}
