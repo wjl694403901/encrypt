@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9b068e5f-0042-426c-8159-37ed4f22af3a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encrypt.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encrypt.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +151,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712584115516</updated>
       <workItem from="1712584116936" duration="1874000" />
-      <workItem from="1712626406844" duration="1162000" />
+      <workItem from="1712626406844" duration="1346000" />
     </task>
     <servers />
   </component>
