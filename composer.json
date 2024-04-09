@@ -6,6 +6,7 @@
             "Wjl\\Encrypt\\": "src/"
         }
     },
+    "license": ["MIT"],
     "authors": [
         {
             "name": "wangjunlu",
