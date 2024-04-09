@@ -8,10 +8,18 @@
         }
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/wjl694403901/encrypt"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "Wjl\\Encrypt\\": "src/"
         }
     },
-    "require": {}
+    "require": {
+        "php": ">=7.0"
+    }
 }
